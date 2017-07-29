@@ -1,5 +1,5 @@
 what is the content?
-
+auto commit
 
 # TestGit
 eck before diff
